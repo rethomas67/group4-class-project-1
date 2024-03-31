@@ -55,6 +55,7 @@ fetch(requestURL, {
     latitude = yosemite[0].latitude;
     longitude = yosemite[0].longitude;
     bikes(latitude, longitude);
+  })
     //end bike comment
     /* uncomment to view Yosemite data in the console console.log(
       "id: " +
